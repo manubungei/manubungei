@@ -12,8 +12,7 @@
 - 👯 I’m looking to collaborate on open-source projects related to data science, analytics, and visualization.
 - 🤝 Open to collaborations on data science projects and exploring opportunities to contribute to open-source initiatives.
 - 💬 Ask me about data analysis, statistical modeling, Python programming, and tech-related ideas, especially if you're diving into the world of data analytics.
-- 📫 How to reach me: emmanuelkbungei@gmail.com | [LinkedIn](https://www.linkedin.com/in/emmanuelbungei/) | [Portfolio](https://manubungei
-github.io/)
+- 📫 How to reach me: emmanuelkbungei@gmail.com | [LinkedIn](https://www.linkedin.com/in/emmanuelbungei/) | [Portfolio](https://manubungei.github.io/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Why did the data analyst get kicked out of the party?
 
